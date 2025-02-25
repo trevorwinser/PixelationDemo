@@ -1,0 +1,27 @@
+# Unity Generated Files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Unity Packages
+Packages/manifest.json
+Packages/packages-lock.json
+
+# Auto-generated VS/IDE files
+.vscode/
+*.csproj
+*.sln
+*.userprefs
+*.suo
+*.pidb
+*.unityproj
+
+# Large files
+.DS_Store
+*.apk
+*.aab
+*.unitypackage
