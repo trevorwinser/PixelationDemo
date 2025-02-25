@@ -65,7 +65,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Shading_Ramp:
-        m_Texture: {fileID: 2800000, guid: dd63a58f73f3c7d458b91d4cfe06944e, type: 3}
+        m_Texture: {fileID: 2800000, guid: cc749f02ea413ae428875ba8e8dab554, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Shading_Ramp_T2:
